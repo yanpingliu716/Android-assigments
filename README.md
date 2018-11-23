@@ -2,18 +2,18 @@
 
 
 Group Members<br><br>
->> * 刘艳平  18126293<br>
->> * 郭佳琦  18126273<br><br>
+ * 刘艳平  18126293<br>
+ * 郭佳琦  18126273<br><br>
 
 Technology<br><br>
->>Android Studio<br><br>
+Android Studio<br><br>
 
 
 Assignment 1, android UI layout for the gym club app.<br><br>
 
 1.Features<br><br>
->> * UI looking for and booking trainers and training classes<br><br>
->> * UI sign-up/sign-in<br><br>
+* UI looking for and booking trainers and training classes<br><br>
+* UI sign-up/sign-in<br><br>
 
 2.Screen video<br><br>
 ![image](https://github.com/yanpingliu716/Android-assigments/blob/master/screen%20video/assignment1.gif)<br><br>
