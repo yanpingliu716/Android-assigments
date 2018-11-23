@@ -1,13 +1,20 @@
 # Android-assigments
-Assignment 1, A Gym Club Apk Layout Design
 
-1.Group Members<br><br>
+
+·Group Members·<br><br>
 * 刘艳平  18126293<br>
 * 郭佳琦  18126273<br><br>
-2.Technology<br><br>
+Technology<br><br>
 Android Studio<br><br>
-3.Features<br><br>
-* looking for and booking trainers and training classes<br>
-* sign-up/sign-in<br>
-4.Screen video<br><br>
+Assignment 1, android UI layout for the gym club app.
+1.Features<br><br>
+* UI looking for and booking trainers and training classes<br>
+* UI sign-up/sign-in<br>
+2.Screen video<br><br>
 ![image](https://github.com/yanpingliu716/Android-assigments/blob/master/screen%20video/assignment1.gif)
+Assignment 2, A Form entry application development.
+1.Features<br><br>
+* User Sign-up/Sign-in Information.<br>
+
+2.Screen video<br><br>
+![image](https://github.com/yanpingliu716/Android-assigments/blob/master/screen%20video/assignment2.gif)
