@@ -9,7 +9,7 @@ Technology<br><br>
 Android Studio<br><br>
 
 
-Assignment 1, android UI layout for the gym club app.<br><br>
+**Assignment 1**, android UI layout for the gym club app.<br><br>
 
 1.Features<br><br>
 * UI looking for and booking trainers and training classes<br><br>
@@ -19,7 +19,7 @@ Assignment 1, android UI layout for the gym club app.<br><br>
 ![image](https://github.com/yanpingliu716/Android-assigments/blob/master/screen%20video/assignment1.gif)<br><br>
 
 
-Assignment 2, A Form entry application development.<br><br>
+**Assignment 2**, A Form entry application development.<br><br>
 
 1.Features<br><br>
 * User Sign-up/Sign-in Information.<br><br>
@@ -28,7 +28,7 @@ Assignment 2, A Form entry application development.<br><br>
 ![image](https://github.com/yanpingliu716/Android-assigments/blob/master/screen%20video/assignment2.gif)<br><br>
 
 
-Assignment 3, More functions adding to GymClub App.<br><br>
+**Assignment 3**, More functions adding to GymClub App.<br><br>
 
 1.Features<br><br>
 * Function1:a video list where each video item consists of a picture as well as short explanation and/or may be click through rate, and a video player that can be opened by click each video item on list..<br><br>
