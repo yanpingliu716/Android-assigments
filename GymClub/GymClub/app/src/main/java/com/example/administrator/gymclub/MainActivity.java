@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
         findView = (TextView) findViewById(R.id.find_tag);
         communityView = (TextView) findViewById(R.id.community_tag);
         mineView = (TextView) findViewById(R.id.mine_tag);
+
         sportView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

@@ -20,7 +20,11 @@
         <activity android:name=".CourseList" />
         <activity android:name=".CoachList" />
         <activity android:name=".LoginActivity" />
-        <activity android:name=".RegisterActivity"></activity>
+        <activity android:name=".RegisterActivity"/>
+        <activity android:name=".PlayActivity"/>
+        <activity android:name=".EmailActivity"/>
+        <activity android:name=".VideosActivity">
+        </activity>
     </application>
 
 </manifest>

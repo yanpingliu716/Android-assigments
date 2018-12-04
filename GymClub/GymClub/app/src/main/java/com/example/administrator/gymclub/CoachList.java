@@ -43,25 +43,25 @@ public class CoachList extends AppCompatActivity {
     }
 
     private void initCoach(){
-        Coach c1 = new Coach("JOHNNY","再完美的衣装也比不上健康的身体，优美的身材！",R.drawable.coach1);
+        Coach c1 = new Coach("西柚","再完美的衣装也比不上健康的身体，优美的身材！",R.drawable.coach1);
         coachList.add(c1);
-        Coach c2 = new Coach("LOLY","生命在于运动",R.drawable.coach2);
+        Coach c2 = new Coach("芒果","生命在于运动",R.drawable.coach2);
         coachList.add(c2);
-        Coach c3 = new Coach("李教练","从锻炼角度看，躺着不如坐着，坐着不如站着，站着不如走着。",R.drawable.coach3);
+        Coach c3 = new Coach("草莓","从锻炼角度看，躺着不如坐着，坐着不如站着，站着不如走着。",R.drawable.coach3);
         coachList.add(c3);
-        Coach c4 = new Coach("刘教练","活动有方，五脏自和。",R.drawable.coach4);
+        Coach c4 = new Coach("山竹","活动有方，五脏自和。",R.drawable.coach4);
         coachList.add(c4);
-        Coach c5 = new Coach("孙教练","身体健康者常年轻。",R.drawable.coach5);
+        Coach c5 = new Coach("桂圆","身体健康者常年轻。",R.drawable.coach5);
         coachList.add(c5);
-        Coach c6 = new Coach("张教练","身体教育和知识教育之间必须保持平衡。体育应造就体格健壮的勇士，并且使健全的精神寓于健全的体格。",R.drawable.coach6);
+        Coach c6 = new Coach("树莓","身体教育和知识教育之间必须保持平衡。体育应造就体格健壮的勇士，并且使健全的精神寓于健全的体格。",R.drawable.coach6);
         coachList.add(c6);
-        Coach c7 = new Coach("谢教练","运动是一切生命的源泉",R.drawable.coach7);
+        Coach c7 = new Coach("樱桃","运动是一切生命的源泉",R.drawable.coach7);
         coachList.add(c7);
-        Coach c8 = new Coach("路教练","运动是生命的滋润剂，健身是青春的美容师，健身是对生命的投资，运动是对健康的保险，生命在运动中延续，健康在锻炼中加固！",R.drawable.coach8);
+        Coach c8 = new Coach("柠檬","运动是生命的滋润剂，健身是青春的美容师，健身是对生命的投资，运动是对健康的保险，生命在运动中延续，健康在锻炼中加固！",R.drawable.coach8);
         coachList.add(c8);
-        Coach c9 = new Coach("宋教练","运动太多和太少，同样的损伤体力；饮食过多与过少，同样的损伤健康；唯有适度可以产生、增进、保持体力和健康。",R.drawable.coach9);
+        Coach c9 = new Coach("西瓜","运动太多和太少，同样的损伤体力；饮食过多与过少，同样的损伤健康；唯有适度可以产生、增进、保持体力和健康。",R.drawable.coach9);
         coachList.add(c9);
-        Coach c10 = new Coach("曹教练","以自然之道，养自然之身！",R.drawable.coach10);
+        Coach c10 = new Coach("蜜桃","以自然之道，养自然之身！",R.drawable.coach10);
         coachList.add(c10);
 
 
