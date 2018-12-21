@@ -38,4 +38,25 @@ Android Studio<br><br>
 ![image](https://github.com/yanpingliu716/Android-assigments/blob/master/screen%20video/assignment3.gif)<br><br>
 
 
+**Assignment 4**, Refactoring yourGymClub App with Offline Caching.<br><br>
+
+1.Features<br><br>
+* Function1,Access private trainer information offline.<br><br>
+* Function 2,Access training articles offline.<br><br>
+
+2.Screen video<br><br>
+![image](https://github.com/yanpingliu716/Android-assigments/blob/master/screen%20video/assignment4.gif)<br><br>
+
+
+**Assignment 5**, Refactoring yourGymClub App with Social Login.<br><br>
+
+1.Features<br><br>
+* Function1,  sign in the app with my Wechat/QQ/other social account.<br><br>
+
+2.Screen video<br><br>
+![image](https://github.com/yanpingliu716/Android-assigments/blob/master/screen%20video/assignment5.gif)<br><br>
+
+
+
+
 
