@@ -45,7 +45,7 @@ Android Studio<br><br>
 * Function 2,Access training articles offline.<br><br>
 
 2.Screen video<br><br>
-![image](https://github.com/yanpingliu716/Android-assigments/blob/master/screen%20video/assignment4.gif)<br><br>
+![image](https://github.com/yanpingliu716/Android-assigments/blob/master/screen%20video/assignment-4.gif)<br><br>
 
 
 **Assignment 5**, Refactoring yourGymClub App with Social Login.<br><br>
