@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#444444">
+
+        <ImageView
+            android:id="@+id/register_back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/back_tag" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="120dp"
+            android:text="注册"
+            android:textColor="#FFFFFF"
+            android:textSize="30sp" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="账户："
+            android:textSize="30sp"
+            android:gravity="center"
+            />
+
+        <EditText
+            android:id="@+id/register_account"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="QQ号/微信号/手机号"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="10dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="密码："
+            android:textSize="30sp"
+            android:gravity="center"
+            />
+
+        <EditText
+            android:id="@+id/register_pwd"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:hint="密码"
+            />
+    </LinearLayout>
+
+
+
+    <Button
+        android:id="@+id/register_submit"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="提交"
+        android:textSize="30sp"
+        />
+
+</LinearLayout>
